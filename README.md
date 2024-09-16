@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh Shah</h1>
-<h3 align="center">Experienced front-end developer with 2+ years of expertise in developing and maintaining responsive web applications. Skilled in JavaScript, React, CSS, and various JS frameworks. Recognized for significantly enhancing the conversion rate of a website by 80% through improved code and design implementation. Eagerly seeking opportunities to leverage and expand my skill set in dynamic and challenging environments, contributing to the continued success of innovative projects</h3>
+<h3 align="center">FrontEnd Developer || React js, Next js</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit1379&label=Profile%20views&color=0e75b6&style=flat" alt="mohit1379" /> </p>
 
-- 🌱 I’m currently learning **React.js and also made some personal project to enhance my skill**
+- 🌱Experienced front-end developer with 2+ years of expertise in developing and maintaining responsive web applications. Skilled in JavaScript, React, CSS, and various JS frameworks. Recognized for significantly enhancing the conversion rate of a website by 80% through improved code and design implementation. Eagerly seeking opportunities to leverage and expand my skill set in dynamic and challenging environments, contributing to the continued success of innovative projects
 
 - 💬 Ask me about any query **react, next js, javascript, html, css..**
 
